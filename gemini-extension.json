@@ -1,0 +1,11 @@
+{
+  "name": "job-clerk",
+  "version": "1.0.0",
+  "description": "Search and read public physician job adverts in Germany, with the employer's original text and source link.",
+  "mcpServers": {
+    "jobclerk": {
+      "httpUrl": "https://jobclerk.de/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
