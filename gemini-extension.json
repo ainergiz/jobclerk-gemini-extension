@@ -1,7 +1,7 @@
 {
   "name": "job-clerk",
-  "version": "1.0.0",
-  "description": "Search and read public physician job adverts in Germany, with the employer's original text and source link.",
+  "version": "1.1.0",
+  "description": "Search public physician jobs and upcoming medical courses, congresses and webinars in Germany.",
   "mcpServers": {
     "jobclerk": {
       "httpUrl": "https://jobclerk.de/mcp"
